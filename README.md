@@ -1,1 +1,1 @@
-# zeltuminitiative-com.github.io/diagnostic-pme
+# ztisy-diagnostic-pme
